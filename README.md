@@ -22,7 +22,7 @@ This task adds input and output redirection functionality. Users can now redirec
 
 The final task, Simple Shell 1.0, represents the completion of the shell project. It includes additional advanced features such as piping, signal handling, and support for environment variables.
 
-### To compile your shell, you can use the following command:
+#### To compile your shell, you can use the following command:
 
 ```
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
